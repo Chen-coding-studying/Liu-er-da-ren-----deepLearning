@@ -1,5 +1,5 @@
 {
-    "python.languageServer": "Pylance",
+    "python.languageServer": "None",
     "python.analysis.typeCheckingMode": "basic",
     "python.analysis.autoSearchPaths": true,
     "python.analysis.useLibraryCodeForTypes": true,
@@ -8,5 +8,8 @@
         "other": true,
         "comments": false,
         "strings": true
-    }
+    },
+    "cursorpyright.analysis.autoSearchPaths": true,
+    "cursorpyright.analysis.typeCheckingMode": "basic",
+    "cursorpyright.analysis.useLibraryCodeForTypes": true
 }
